@@ -1,0 +1,11 @@
+#OUTPUT
+print("############################################################################")
+print("# SUMA DE LOS COSTOS DE VENTA DEL AÑO 2007 HASTA 2009 #")
+print("#####################################################################")
+print("# costos de ventas 2007: ", costos_de_ventas_2007,"      #")
+print("# costos de ventas 2008: ", costos_de_ventas_2008,"    #")
+print("# costos de ventas 2009: ", costos_de_ventas_2009,"    #")
+print("#####################################################################")
+print("# total:s/. ", total,"   # ")
+print("# malas ventas: ",malas_ventas,"    #")
+print("#####################################################################")

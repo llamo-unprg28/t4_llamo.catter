@@ -1,0 +1,10 @@
+#OUTPUT
+print("###########################################################")
+print("#  DIVISION DEL PRIMER PRODUCTO Y EL TOTAL DEL IMPORTE  #")
+print("#########################")
+print("# libro de auditoria tributaria: ", libro_de_auditoria_tributaria,"   # ")
+print("# total del importe: ", total_del_importe,"      #")
+print("#########################################################")
+print("# total: ",total,"    # ")
+print("# buena venta : ",buena_venta ,"    # ")
+print("#########################################################")

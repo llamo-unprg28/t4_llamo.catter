@@ -1,0 +1,10 @@
+#OUTPUT
+print("############################################################################")
+print("# SUMA DE LOS QUE USAN SAMSUNG INTERNET E INTERNET EXPLORE EN AFRICA  #")
+print("#####################################################################")
+print("# samsung_internet: ", samsung_internet,"       #")
+print("# internet_explor: ",internet_explore,"       #"     )
+print("#####################################################################")
+print("# total: % ",total,"      #")
+print("# samsung internet mas usado:  ",samsung_internet_mas_usado,"      #")
+print("#####################################################################")

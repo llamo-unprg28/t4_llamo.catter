@@ -1,0 +1,10 @@
+#OUTPUT
+print("#####################################################")
+print("#  SUMA DE LOS DOS PRIMEROS PRODUCTOS VENDIDOS  #")
+print("#########################")
+print("# libro de auditoria tributaria: ", libro_de_auditoria_tributaria,"   #")
+print("# libro manual del contador: ", libro_manual_del_contador,"    #")
+print("################################################################")
+print("# total: ", total,"     #")
+print("# descuento del 10%: ",descuento,"     #")
+print("#########################")

@@ -1,0 +1,12 @@
+#OUTPUT
+print("############################################################################")
+print("# SUMA DE LOS QUE USAN EDGE, SAFARI Y OPERA EN AFRICA #")
+print("#####################################################################")
+print("# edge: ",edge,"  # ")
+print("# safari: ",safari,"  #")
+print("# opera: ",opera,"    #")
+print("# total: ", total)
+print("#####################################################################")
+print("# total:% ",total,"   #")
+print("# buenos navegadores: ",buenos_navegadores,"   #")
+print("####################################################")
